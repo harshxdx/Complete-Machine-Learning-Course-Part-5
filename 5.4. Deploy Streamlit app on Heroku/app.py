@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# heroku diff app same code we want there need some external files like requirements.txt,runtime.txt,and a setup.sh files as well
+
+
 """
 Created on Sun May  8 21:01:15 2022
 
